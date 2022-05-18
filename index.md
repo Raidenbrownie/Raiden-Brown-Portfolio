@@ -13,7 +13,10 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/galaxyguitar.png?raw=true"/>
+
+[Project 4 Title](http://example.com/)
+<img src="images/iphoneraiden.png?raw=true"/>
 
 ---
 
