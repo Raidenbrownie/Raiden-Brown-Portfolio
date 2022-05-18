@@ -5,7 +5,7 @@
 ### Graphic Design Projects 
 
 [Project 1 Blend Image](/sample_page)
-<img src="images/Male men.jpg?raw=true"/>
+<img src="images/Male men.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
