@@ -18,6 +18,9 @@
 [Project 4 Title](http://example.com/)
 <img src="images/iphoneraiden.png?raw=true"/>
 
+[Project 5 Title](http://example.com/)
+<img src="images/surrealism.png?raw=true"/>
+
 ---
 
 ### Category Name 2
